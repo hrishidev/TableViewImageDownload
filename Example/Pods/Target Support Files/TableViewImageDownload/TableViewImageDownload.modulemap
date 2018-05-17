@@ -1,0 +1,6 @@
+framework module TableViewImageDownload {
+  umbrella header "TableViewImageDownload-umbrella.h"
+
+  export *
+  module * { export * }
+}

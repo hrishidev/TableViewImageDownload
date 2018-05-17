@@ -9,7 +9,11 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
+###Features
+- Simple implementation 
+- Supports Caching using NSCache
+- UI update only if tableviewcell is still visible 
+- Protocol declaration for showing & hiding loading animation 
 
 ## Installation
 

@@ -1,0 +1,22 @@
+{
+  "name": "TableViewImageDownload",
+  "version": "0.1.0",
+  "summary": "A short description of TableViewImageDownload.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hrishikesh devhare/TableViewImageDownload",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hrishikesh devhare": "hrishidev@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/hrishikesh devhare/TableViewImageDownload.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TableViewImageDownload/Classes/**/*"
+}

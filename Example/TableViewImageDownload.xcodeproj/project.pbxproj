@@ -42,11 +42,11 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		8EA139520DB284316AA616CB /* Pods-TableViewImageDownload_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TableViewImageDownload_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TableViewImageDownload_Tests/Pods-TableViewImageDownload_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		90498FD66B3AB8D9C0842612 /* Pods_TableViewImageDownload_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TableViewImageDownload_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		943A90AD39535515E6A565C9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		943A90AD39535515E6A565C9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		A07983145575DBAC118395F6 /* Pods-TableViewImageDownload_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TableViewImageDownload_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TableViewImageDownload_Tests/Pods-TableViewImageDownload_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		B2CB37E44DCBED862FD48CD9 /* TableViewImageDownload.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = TableViewImageDownload.podspec; path = ../TableViewImageDownload.podspec; sourceTree = "<group>"; };
+		B2CB37E44DCBED862FD48CD9 /* TableViewImageDownload.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TableViewImageDownload.podspec; path = ../TableViewImageDownload.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B95D7678CD41255B108C2074 /* Pods_TableViewImageDownload_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TableViewImageDownload_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E997A4404470EB8AC8EF6C09 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		E997A4404470EB8AC8EF6C09 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

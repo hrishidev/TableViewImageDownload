@@ -1,0 +1,16 @@
+PODS:
+  - TableViewImageDownload (0.1.0)
+
+DEPENDENCIES:
+  - TableViewImageDownload (from `../`)
+
+EXTERNAL SOURCES:
+  TableViewImageDownload:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TableViewImageDownload: 8fb99fa52b5aea20ceeb4c17c864e83998a01bde
+
+PODFILE CHECKSUM: 6cf6ca7302efbf1f619a9145bfa8ada3d8c1df30
+
+COCOAPODS: 1.5.0
