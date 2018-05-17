@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TableViewImageDownload_Example' do
+  pod 'TableViewImageDownload', :path => '../'
+
+  target 'TableViewImageDownload_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
